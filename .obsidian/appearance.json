@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Android Euclid Medium",
+  "textFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "custom-fonts",
+    "obsidian-minimal-tweaks"
+  ]
+}
